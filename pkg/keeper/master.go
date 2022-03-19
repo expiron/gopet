@@ -1,6 +1,6 @@
 package keeper
 
-import "app/pkg/pet"
+import "github.com/expiron/gopet/pkg/pet"
 
 func FeedAPet(name string) {
 	pet := pet.NewPet(name)

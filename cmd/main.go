@@ -1,7 +1,7 @@
 package main
 
 import (
-	"app/pkg/keeper"
+	"github.com/expiron/gopet/pkg/keeper"
 
 	log "github.com/sirupsen/logrus"
 )

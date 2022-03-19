@@ -1,4 +1,4 @@
-module app
+module github.com/expiron/gopet
 
 go 1.18
 
